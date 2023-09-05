@@ -1,2 +1,2 @@
 # dialo_sirius
-Dialog bot for sirius/tinkoff case
+Dialog bot based on SOTA model from hugging face for sirius/tinkoff case
