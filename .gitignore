@@ -129,7 +129,7 @@ ENV/
 env.bak/
 venv.bak/
 /bot/.env
-/model/.env
+/model_deploying/.env
 
 # Spyder project settings
 .spyderproject

@@ -10,4 +10,4 @@ services:
   model:
     restart: always
     image: dmitrydity/dialo_bot:latest
-    env_file: ./model/.env
+    env_file: model_deploying/.env
